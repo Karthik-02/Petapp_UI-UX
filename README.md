@@ -1,8 +1,8 @@
 # Petapp_UI-UX
-UI/UX Designing Hackathon
-festival IconE-Summit'23
-Organisation IconIndian Institute of Technology (IIT), Patna
-Location-Online
+  UI/UX Designing Hackathon
+  E-Summit'23
+  Indian Institute of Technology (IIT), Patna
+  Location-Online
 
 
 # Problem Statement: 
